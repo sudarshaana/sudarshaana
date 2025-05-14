@@ -48,7 +48,7 @@ Whether it's Django, Golang, or Docker on the cloud, I enjoy solving complex pro
 - 🖥 [Portfolio](http://smondal.me)
 - 🐙 [GitHub](https://github.com/sudarshaana)
 - 💼 [LinkedIn](https://linkedin.com/in/sudarshaana)
-- 👨🏻‍💻 [StackOverflow]([https://linkedin.com/in/sudarshaana](https://stackoverflow.com/users/4728918/sudarshan))
+- 👨🏻‍💻 [StackOverflow](https://stackoverflow.com/users/4728918/sudarshan)
 - ✉️ [Email](mailto:sudarshaana@gmail.com)
 
 ---
