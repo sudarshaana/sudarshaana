@@ -30,8 +30,8 @@ Whether it's Django, Golang, or Docker on the cloud, I enjoy solving complex pro
 ---
 
 ## 🛠 Tech I Enjoy Using
-**Languages:** Python, Golang, Shell  
-**Frameworks:** Django, Celery, DRF, Flask  
+**Languages:** Python, JavaScript, Golang, Shell  
+**Frameworks:** Django, Celery, DRF, Flask, NextJS
 **DevOps:** Docker, Redis, AWS  
 **Databases:** PostgreSQL, MySQL, MongoDB  
 **Tools:** Git, VSCode, Tmux, Linux CLI
