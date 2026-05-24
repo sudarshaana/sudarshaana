@@ -15,6 +15,7 @@ Whether it's Django, Golang, or Docker on the cloud, I enjoy solving complex pro
 ---
 
 ## 🔭 Current Side Projects
+- 📧 **Email Mate**: An email campaign tool to manage campaigns and contacts without hassle. (NextJS, Redis, BullMQ, PostgreSQL, Prisma, Better-Auth)
 - 🛡 **Server Monitor**: A real-time web server monitoring tool (DRF + Golang + Redis + Celery)
 - 🎥 **FlashMob**: A backend system for a video platform with fraud detection and content recommendations
 - 💡 Always tinkering with new ideas to improve workflows, performance, and developer experience
